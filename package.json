@@ -1,0 +1,24 @@
+{
+  "name": "webscaper",
+  "version": "1.0.0",
+  "description": "Webscaper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jrford38/WebScaper.git"
+  },
+  "author": "Jonathan R Ford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jrford38/WebScaper/issues"
+  },
+  "homepage": "https://github.com/Jrford38/WebScaper#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2"
+  }
+}
